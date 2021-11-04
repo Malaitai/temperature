@@ -1,0 +1,2 @@
+1. User might enter text/string
+2. User might not choose one of the options (e.g. F to C) - DONE
